@@ -54,6 +54,8 @@
                 .DEBUG(false)
                 .text(TEXT);
 
+#gradle使用
+` compile 'com.qingningshe.richtext:richtext:1.0.0'`
 ## 运行截图
 ![](https://github.com/qingningshe/QTRichText/blob/master/screenshot.jpeg)
 
