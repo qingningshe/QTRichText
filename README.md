@@ -50,4 +50,5 @@
             }
         }).DEBUG(false).text(TEXT);
 
-
+## 运行截图
+![](https://github.com/qingningshe/QTRichText/blob/master/screenshot.jpeg)
